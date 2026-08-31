@@ -1,64 +1,43 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
+excerpt: "Curriculum vitae of Feng-Chun Hsu"
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
-{% include base_path %}
+<p class="cv-download"><a class="btn btn--primary" href="/files/CV_FengChun_Hsu.pdf">Download full CV (PDF)</a></p>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Research profile
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Optical imaging researcher integrating optical-system development, physical modeling, calibration, and computational reconstruction for fast, high-dimensional bioimaging. Research spans multiphoton microscopy, temporal focusing, light-field imaging, computer-generated holography, adaptive optics, wavefront sensing, and physics-informed learning.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Ph.D. in Photonics**, National Yang Ming Chiao Tung University, 2018–2025<br>
+  Advisor: Prof. Shean-Jen Chen
+- **M.S. in Engineering Science**, National Cheng Kung University, 2016–2018
+- **B.S. in Engineering Science**, National Cheng Kung University, 2012–2016
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research experience
+
+### Visiting Scholar · Massachusetts Institute of Technology
+
+Worked with Prof. Peter T. C. So in Mechanical Engineering on high-speed multiphoton imaging through scattering media, vectorial temporal-focusing simulation, and silicon-photomultiplier detection.
+
+### Doctoral Research Assistant · National Yang Ming Chiao Tung University
+
+Developed optical and computational methods across temporal-focusing multiphoton microscopy, light-field imaging, 3D computer-generated holography, adaptive optics, and wavefront sensing.
+
+## Teaching
+
+Teaching assistant for Electro-Optics and Electro-Optical Signal Processing at National Yang Ming Chiao Tung University, 2016–2021.
+
+## Technical expertise
+
+- **Imaging:** multiphoton microscopy, temporal focusing, light-field and volumetric microscopy, fluorescence and second-harmonic-generation imaging
+- **Computational:** physical and vectorial modeling, image reconstruction, inverse problems, deep learning, physics-informed inference
+- **Systems:** DMD and SLM beam shaping, Shack–Hartmann sensing, adaptive optics, SiPM and hybrid photodetector readout, FPGA/DAC control, and ROS integration
+
+For the full publication, presentation, and patent record, see the [publications page](/publications/) or the downloadable CV.
