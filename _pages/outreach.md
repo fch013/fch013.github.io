@@ -25,8 +25,6 @@ I am interested in developing clear, visual demonstrations of light-field imagin
 
 I welcome opportunities to discuss research paths, optical-system development, and the relationship between physics-based models and machine learning with students and early-career researchers.
 
-<div class="callout" markdown="1">
-### Interested in collaborating on outreach?
+## Interested in collaborating on outreach?
 
 If you are organizing a student event, laboratory demonstration, or public conversation about imaging science, please [get in touch](mailto:tk821017@gmail.com).
-</div>

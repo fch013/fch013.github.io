@@ -7,7 +7,7 @@ redirect_from:
   - /resume/
 ---
 
-<p class="cv-download"><a class="btn btn--primary" href="/files/CV_FengChun_Hsu.pdf">Download full CV (PDF)</a></p>
+[Download full CV (PDF)](/files/CV_FengChun_Hsu.pdf)
 
 ## Research profile
 
