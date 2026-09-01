@@ -27,7 +27,9 @@ My research lies at the intersection of microscopy, computational imaging, and p
 - [Deep-Computer-Generated Holography With Temporal Focusing and a Digital Propagation Matrix](https://doi.org/10.1364/OE.505956), *Optics Express* (2024)
 - [Light-Field Microscopy With Temporal Focusing Multiphoton Illumination](https://doi.org/10.1364/BOE.473807), *Biomedical Optics Express* (2022)
 
+<!--
 ## Contact
 
 Email: [tk821017@gmail.com](mailto:tk821017@gmail.com)<br>
 [Google Scholar](https://scholar.google.com/citations?user=3wY6nq8AAAAJ) · [GitHub](https://github.com/fch013) · [LinkedIn](https://www.linkedin.com/in/feng-chun-hsu-57955b313/) · [CV](/files/CV_FengChun_Hsu.pdf)
+-->
