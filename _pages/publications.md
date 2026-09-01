@@ -1,4 +1,4 @@
 ---
 permalink: /publications/
-redirect_to: /#research
+redirect_to: /research/
 ---

@@ -1,6 +1,9 @@
 main:
-  - title: "About & Research"
+  - title: "About"
     url: /
+
+  - title: "Research"
+    url: /research/
 
   - title: "News"
     url: /#news
