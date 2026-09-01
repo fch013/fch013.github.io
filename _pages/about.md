@@ -14,7 +14,7 @@ My research lies at the intersection of microscopy, computational imaging, and p
 
 **Research interests:** optical microscopy, light-field imaging, temporal focusing, multiphoton microscopy, computational imaging, computer-generated holography, adaptive optics, wavefront sensing, and physics-informed reconstruction.
 
-## News
+<!--## News-->
 
 - **2025** — Completed my Ph.D. in Photonics at National Yang Ming Chiao Tung University.
 - **2025** — Published “Microlens Array-Based Beam Profile and Wavefront Sensor With Physical Constraint Learning” in *IEEE Photonics Journal*.
