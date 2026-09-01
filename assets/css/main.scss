@@ -37,3 +37,23 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Compact, consistent schematics on the Research page. */
+.research-figure {
+  max-width: 640px;
+  margin: 1.25rem auto 1.5rem;
+
+  img {
+    margin-bottom: 0.5rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: 8px;
+    background: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  }
+
+  figcaption {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+}

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+  <title id="title">Temporal focusing and three-dimensional multiphoton control</title>
+  <desc id="desc">A spatial light modulator controls a dispersed ultrafast pulse, whose spectral components recombine at a temporal focus to produce a three-dimensional multiphoton pattern.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L8,3 z" fill="#64748b"/></marker>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/><stop offset="0.35" stop-color="#2563eb"/><stop offset="0.68" stop-color="#0f766e"/><stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="718" height="238" rx="16" fill="#ffffff" stroke="#dbe4ef"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" fill="#334155" text-anchor="middle">
+    <text x="86" y="210">DMD / SLM</text><text x="270" y="210">Spectral dispersion</text><text x="455" y="210">Temporal focus</text><text x="625" y="210">3D multiphoton pattern</text>
+  </g>
+
+  <g transform="translate(32 55)">
+    <rect x="0" y="0" width="108" height="108" rx="8" fill="#f8fafc" stroke="#334155" stroke-width="2"/>
+    <g fill="#94a3b8">
+      <rect x="14" y="14" width="14" height="14"/><rect x="32" y="14" width="14" height="14"/><rect x="50" y="14" width="14" height="14"/><rect x="68" y="14" width="14" height="14"/>
+      <rect x="23" y="34" width="14" height="14"/><rect x="41" y="34" width="14" height="14"/><rect x="59" y="34" width="14" height="14"/><rect x="77" y="34" width="14" height="14"/>
+      <rect x="14" y="54" width="14" height="14"/><rect x="32" y="54" width="14" height="14"/><rect x="50" y="54" width="14" height="14"/><rect x="68" y="54" width="14" height="14"/>
+      <rect x="23" y="74" width="14" height="14"/><rect x="41" y="74" width="14" height="14"/><rect x="59" y="74" width="14" height="14"/><rect x="77" y="74" width="14" height="14"/>
+    </g>
+    <circle cx="83" cy="84" r="10" fill="#f97316" fill-opacity="0.85"/>
+  </g>
+
+  <line x1="146" y1="109" x2="188" y2="109" stroke="#64748b" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <g transform="translate(204 47)">
+    <rect x="0" y="59" width="118" height="11" rx="5" fill="url(#spectrum)"/>
+    <path d="M8 58L30 24M36 58L50 18M64 58L70 15M92 58L93 20M114 58L112 30" stroke="url(#spectrum)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M8 72L30 106M36 72L50 112M64 72L70 115M92 72L93 110M114 72L112 100" stroke="url(#spectrum)" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <line x1="332" y1="109" x2="370" y2="109" stroke="#64748b" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <g transform="translate(386 44)">
+    <path d="M0 22 C45 22 58 66 86 66 C58 66 45 110 0 110" fill="none" stroke="#2563eb" stroke-width="3"/>
+    <path d="M112 22 C67 22 54 66 26 66 C54 66 67 110 112 110" fill="none" stroke="#7c3aed" stroke-width="3"/>
+    <ellipse cx="56" cy="66" rx="10" ry="31" fill="#f97316" fill-opacity="0.28" stroke="#f97316" stroke-width="2"/>
+    <line x1="56" y1="18" x2="56" y2="114" stroke="#f97316" stroke-dasharray="4 4"/>
+  </g>
+
+  <line x1="506" y1="109" x2="544" y2="109" stroke="#64748b" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <g transform="translate(565 49)">
+    <path d="M4 88L72 70L118 90L50 108Z" fill="#dbeafe" stroke="#2563eb" stroke-width="1.7"/>
+    <path d="M4 55L72 37L118 57L50 75Z" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.7"/>
+    <path d="M4 22L72 4L118 24L50 42Z" fill="#ccfbf1" stroke="#0f766e" stroke-width="1.7"/>
+    <circle cx="36" cy="91" r="7" fill="#f97316"/><circle cx="78" cy="58" r="7" fill="#f97316"/><circle cx="55" cy="27" r="7" fill="#f97316"/>
+  </g>
+</svg>

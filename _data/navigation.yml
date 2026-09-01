@@ -8,5 +8,6 @@ main:
   # - title: "News"
   #  url: /#news
 
-  - title: "Beyond Research"
-    url: /personal/
+  # Temporarily hidden until the personal page has more content.
+  # - title: "Beyond Research"
+  #   url: /personal/

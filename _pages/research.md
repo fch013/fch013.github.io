@@ -11,6 +11,11 @@ My work brings optical hardware, forward models, calibration, and computational 
 
 I develop physics-informed reconstruction methods for light-field microscopy. My current work embeds the optical forward model—including microlens sampling, aberrations, and measurement multiplexing—into learning for robust, high-speed volumetric bioimaging.
 
+<figure class="research-figure">
+  <img src="/images/research-light-field.svg" alt="Schematic of light-field acquisition and physics-informed three-dimensional reconstruction" loading="lazy">
+  <figcaption>Light-field measurements encode angular and spatial information for computational 3D reconstruction.</figcaption>
+</figure>
+
 Selected work:
 
 - **Richardson-Lucy-Based Deconvolution Network for Light Field Microscopy** — manuscript in preparation
@@ -19,6 +24,11 @@ Selected work:
 ## Temporal Focusing and Multiphoton Control
 
 I study temporal-focusing propagation for fast multiphoton imaging and precise 3D optical stimulation. This work includes vectorial spatiotemporal simulation, DMD-based line scanning, and learning-based computer-generated holography.
+
+<figure class="research-figure">
+  <img src="/images/research-temporal-focusing.svg" alt="Schematic of spectral dispersion, temporal focusing, and three-dimensional multiphoton pattern generation" loading="lazy">
+  <figcaption>Spectral and spatial control confines ultrafast excitation into targeted multiphoton patterns.</figcaption>
+</figure>
 
 Selected work:
 
@@ -29,6 +39,11 @@ Selected work:
 ## Adaptive Optics and Wavefront Sensing
 
 I develop compact sensing and reconstruction methods that incorporate optical constraints directly into learning, including joint recovery of wavefront and beam intensity from microlens-array measurements.
+
+<figure class="research-figure">
+  <img src="/images/research-wavefront.svg" alt="Schematic of microlens-array wavefront sensing and physics-informed recovery" loading="lazy">
+  <figcaption>Microlens-array measurements and physical constraints recover the incident wavefront and beam profile.</figcaption>
+</figure>
 
 Selected work:
 
