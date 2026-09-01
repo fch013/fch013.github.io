@@ -1,16 +1,16 @@
 ---
 permalink: /
 title: "Welcome!"
-excerpt: "Feng-Chun Hsu — optical and computational imaging researcher"
+excerpt: "Feng-Chun Hsu"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an optical imaging researcher working at the intersection of **microscopy, computational imaging, and physics-informed learning**. I develop optical systems and reconstruction methods for fast, high-dimensional biological imaging.
+I am a postdoctoral research associate at the Adaptive Photonics Lab under Prof. Shean-Jen Chen, where I also earned my Ph.D. in Photonics at National Yang Ming Chiao Tung University. During my doctoral studies, I was a visiting scholar in Mechanical Engineering at MIT, working with Prof. Peter T. C. So on high-speed multiphoton imaging through scattering media.
 
-I earned my Ph.D. in Photonics from [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/), advised by Prof. Shean-Jen Chen. During my doctoral studies, I was a visiting scholar in Mechanical Engineering at MIT, working with Prof. Peter T. C. So on high-speed multiphoton imaging through scattering media.
+My research lies at the intersection of microscopy, computational imaging, and physics-informed learning. I develop optical systems and reconstruction methods for fast, high-dimensional biological imaging.
 
 **Research interests:** optical microscopy, light-field imaging, temporal focusing, multiphoton microscopy, computational imaging, computer-generated holography, adaptive optics, wavefront sensing, and physics-informed reconstruction.
 
