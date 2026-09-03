@@ -10,9 +10,9 @@ I combine optical system design, physical modeling, and computational reconstruc
 ## Light-Field and Computational Imaging
 
 <article class="research-entry" aria-labelledby="rl-light-field">
-  <a class="research-entry__figure" href="{{ '/images/research/rl-light-field.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full-size Richardson-Lucy light-field figure in a new tab">
-    <img src="{{ '/images/research/rl-light-field.png' | relative_url }}" alt="Optical forward model and Richardson-Lucy-based deconvolution network for light-field volume reconstruction" width="4308" height="2928" decoding="async">
-  </a>
+  <div class="research-entry__figure">
+    <img src="{{ '/images/research/rl-light-field-thumb.png' | relative_url }}" alt="Optical forward model and Richardson-Lucy-based deconvolution network for light-field volume reconstruction" width="800" height="544" decoding="async">
+  </div>
   <div class="research-entry__details">
     <h3 id="rl-light-field">Physics-Guided Light-Field Reconstruction</h3>
     <p class="research-entry__summary">This ongoing project combines light-field microscopy with a Richardson-Lucy-inspired deconvolution network for 3D reconstruction. The framework brings optical forward modeling into the learning process and combines coarse and fine image features. It aims to connect physics-based reconstruction with learned inference for selective-volume multiphoton imaging.</p>
@@ -21,7 +21,7 @@ I combine optical system design, physical modeling, and computational reconstruc
 </article>
 
 <article class="research-entry" aria-labelledby="selective-light-field">
-  <a class="research-entry__figure" href="{{ '/images/research/selective-light-field.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full-size selective-volume light-field figure in a new tab">
+  <a class="research-entry__figure" href="https://doi.org/10.1364/BOE.473807" aria-label="Read the 2022 light-field microscopy paper">
     <img src="{{ '/images/research/selective-light-field.png' | relative_url }}" alt="Light-field measurements, reconstructed microscopy images, and depth-coded volume projections" width="4271" height="2626" loading="lazy" decoding="async">
   </a>
   <div class="research-entry__details">
@@ -34,9 +34,9 @@ I combine optical system design, physical modeling, and computational reconstruc
 ## Temporal Focusing and Multiphoton Control
 
 <article class="research-entry" aria-labelledby="vectorial-lstf">
-  <a class="research-entry__figure" href="{{ '/images/research/vectorial-lstf.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full-size vectorial temporal-focusing figure in a new tab">
-    <img src="{{ '/images/research/vectorial-lstf.png' | relative_url }}" alt="Temporal-focusing optical propagation layouts and vectorial focal-field illustrations" width="6742" height="3944" loading="lazy" decoding="async">
-  </a>
+  <div class="research-entry__figure">
+    <img src="{{ '/images/research/vectorial-lstf-thumb.png' | relative_url }}" alt="Temporal-focusing optical propagation layouts and vectorial focal-field illustrations" width="800" height="468" loading="lazy" decoding="async">
+  </div>
   <div class="research-entry__details">
     <h3 id="vectorial-lstf">Modeling Temporal-Focusing Excitation</h3>
     <p class="research-entry__summary">This ongoing project develops a vectorial spatiotemporal model of line-scanning temporal focusing. It examines how spectral dispersion, optical propagation, and vectorial focusing shape the excitation field in space and time. The goal is to provide a physical basis for understanding axial confinement and guiding the design of temporal-focusing illumination systems.</p>
@@ -45,8 +45,8 @@ I combine optical system design, physical modeling, and computational reconstruc
 </article>
 
 <article class="research-entry" aria-labelledby="dl-cgh">
-  <a class="research-entry__figure" href="{{ '/images/research/dl-cgh.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full-size deep-learning holography figure in a new tab">
-    <img src="{{ '/images/research/dl-cgh.png' | relative_url }}" alt="Learning-based hologram generation and temporal-focusing optical setup for three-dimensional multiphoton stimulation" width="4102" height="2044" loading="lazy" decoding="async">
+  <a class="research-entry__figure" href="https://doi.org/10.1364/OE.505956" aria-label="Read the 2024 holographic multiphoton stimulation paper">
+    <img src="{{ '/images/research/dl-cgh-thumb.png' | relative_url }}" alt="Learning-based hologram generation and temporal-focusing optical setup for three-dimensional multiphoton stimulation" width="800" height="399" loading="lazy" decoding="async">
   </a>
   <div class="research-entry__details">
     <h3 id="dl-cgh">Holographic 3D Multiphoton Stimulation</h3>
@@ -56,8 +56,8 @@ I combine optical system design, physical modeling, and computational reconstruc
 </article>
 
 <article class="research-entry" aria-labelledby="multiline-tf">
-  <a class="research-entry__figure" href="{{ '/images/research/multiline-tf.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full-size parallel multiline temporal-focusing figure in a new tab">
-    <img src="{{ '/images/research/multiline-tf.png' | relative_url }}" alt="DMD-based multiphoton microscopy setup with optimized parallel multiline illumination patterns" width="2676" height="1448" loading="lazy" decoding="async">
+  <a class="research-entry__figure" href="https://doi.org/10.1117/1.JBO.26.1.016501" aria-label="Read the 2021 parallel multiline temporal-focusing paper">
+    <img src="{{ '/images/research/multiline-tf-thumb.png' | relative_url }}" alt="DMD-based multiphoton microscopy setup with optimized parallel multiline illumination patterns" width="800" height="433" loading="lazy" decoding="async">
   </a>
   <div class="research-entry__details">
     <h3 id="multiline-tf">Parallel Multiline Temporal Focusing</h3>
@@ -69,8 +69,8 @@ I combine optical system design, physical modeling, and computational reconstruc
 ## Adaptive Optics and Wavefront Sensing
 
 <article class="research-entry" aria-labelledby="dl-wavefront">
-  <a class="research-entry__figure" href="{{ '/images/research/dl-wavefront.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full-size beam-profile and wavefront sensing figure in a new tab">
-    <img src="{{ '/images/research/dl-wavefront.png' | relative_url }}" alt="Microlens-array measurements and a neural network jointly reconstructing wavefront and intensity profiles" width="2557" height="1755" loading="lazy" decoding="async">
+  <a class="research-entry__figure" href="https://doi.org/10.1109/JPHOT.2025.3561931" aria-label="Read the 2025 beam-profile and wavefront sensing paper">
+    <img src="{{ '/images/research/dl-wavefront-thumb.png' | relative_url }}" alt="Microlens-array measurements and a neural network jointly reconstructing wavefront and intensity profiles" width="800" height="549" loading="lazy" decoding="async">
   </a>
   <div class="research-entry__details">
     <h3 id="dl-wavefront">Learning-Based Wavefront and Beam Sensing</h3>
@@ -78,8 +78,6 @@ I combine optical system design, physical modeling, and computational reconstruc
     <p class="research-entry__publication"><a href="https://doi.org/10.1109/JPHOT.2025.3561931">Microlens Array-Based Beam Profile and Wavefront Sensor With Physical Constraint Learning</a><br><span class="research-entry__venue"><em>IEEE Photonics Journal</em> · 2025</span></p>
   </div>
 </article>
-
-{% include research-lightbox.html %}
 
 ## Complete academic record
 

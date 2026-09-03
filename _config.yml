@@ -12,7 +12,7 @@ timezone: "Asia/Taipei"
 
 # Sidebar profile
 author:
-  avatar: "profile-outdoors.jpg"
+  avatar: "profile-outdoors-small.png"
   avatar_crop: true
   name: *name
   bio: "postdoctoral research associate at APL NYCU"
