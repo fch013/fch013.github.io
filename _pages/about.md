@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate in the [Adaptive Photonics Lab](https://apl440.web.nycu.edu.tw/) at National Yang Ming Chiao Tung* University (NYCU), working with Prof. Shean-Jen Chen. I also earned my Ph.D. in Photonics at NYCU. During my doctoral studies, I was a visiting scholar in the Department of Mechanical Engineering at MIT, working with [Prof. Peter T. C. So] on high-speed multiphoton imaging through scattering media.
+I am a postdoctoral research associate in the [Adaptive Photonics Lab](https://apl440.web.nycu.edu.tw/) at National Yang Ming Chiao Tung* University (NYCU), working with Prof. Shean-Jen Chen. I also earned my Ph.D. in Photonics at NYCU. During my doctoral studies, I was a visiting scholar in the Department of Mechanical Engineering at MIT, working with [Prof. Peter T. C. So]() on high-speed multiphoton imaging through scattering media.
 
 My research combines optical system development, computational imaging, and physics-informed learning. I develop imaging systems and reconstruction methods for fast, high-dimensional biological imaging.
 
