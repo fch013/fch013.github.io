@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Welcome!"
 excerpt: "Feng-Chun Hsu"
 author_profile: true
