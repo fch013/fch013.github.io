@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate at the Adaptive Photonics Lab under Prof. Shean-Jen Chen, where I also earned my Ph.D. in Photonics at National Yang Ming Chiao Tung University. During my doctoral studies, I was a visiting scholar in Mechanical Engineering at MIT, working with Prof. Peter T. C. So on high-speed multiphoton imaging through scattering media.
+I am a postdoctoral research associate in the Adaptive Photonics Lab at National Yang Ming Chiao Tung University (NYCU), working with Prof. Shean-Jen Chen. I also earned my Ph.D. in Photonics at NYCU. During my doctoral studies, I was a visiting scholar in the Department of Mechanical Engineering at MIT, working with Prof. Peter T. C. So on high-speed multiphoton imaging through scattering media.
 
-My research lies at the intersection of microscopy, computational imaging, and physics-informed learning. I develop optical systems and reconstruction methods for fast, high-dimensional biological imaging.
+My research combines optical system development, computational imaging, and physics-informed learning. I develop imaging systems and reconstruction methods for fast, high-dimensional biological imaging.
+
+Outside research, I’m a 6-dan Go player and a baseball enthusiast.
 
 **Research interests:** Biomedical optical imaging, light-field imaging, multiphoton microscopy, temporal focusing, holography, adaptive optics and computational imaging.
 
