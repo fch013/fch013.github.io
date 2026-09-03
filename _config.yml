@@ -12,7 +12,8 @@ timezone: "Asia/Taipei"
 
 # Sidebar profile
 author:
-  avatar: "profile.jpg"
+  avatar: "profile-outdoors.jpg"
+  avatar_crop: true
   name: *name
   bio: "postdoctoral research associate at APL NYCU"
   location: "Tainan, Taiwan"
