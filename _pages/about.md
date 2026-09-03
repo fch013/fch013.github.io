@@ -1,4 +1,4 @@
-<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/714bb64c-2f8e-4235-bca6-51b8dad8fb36" />---
+---
 permalink: /
 title: "Welcome!"
 excerpt: "Feng-Chun Hsu"
