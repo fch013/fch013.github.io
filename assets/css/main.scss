@@ -49,9 +49,9 @@
 }
 
 .author__portrait {
+  position: relative;
   display: block;
   width: 64px;
-  aspect-ratio: 1;
   overflow: hidden;
   border: 1px solid var(--global-border-color);
   border-radius: 50%;
@@ -61,7 +61,19 @@
     max-width: 175px;
   }
 
+  /* Reserve a square independently of the image's intrinsic dimensions.
+     Safari can size a percentage-height image differently inside an
+     aspect-ratio wrapper in the mobile table-cell profile layout. */
+  &::before {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+  }
+
   img {
+    position: absolute;
+    top: 0;
+    left: 0;
     display: block;
     width: 100%;
     height: 100%;
