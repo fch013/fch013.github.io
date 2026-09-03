@@ -22,7 +22,7 @@ I combine optical system design, physical modeling, and computational reconstruc
 
 <article class="research-entry" aria-labelledby="selective-light-field">
   <a class="research-entry__figure" href="https://doi.org/10.1364/BOE.473807" aria-label="Read the 2022 light-field microscopy paper">
-    <img src="{{ '/images/research/selective-light-field.png' | relative_url }}" alt="Light-field measurements, reconstructed microscopy images, and depth-coded volume projections" width="4271" height="2626" loading="lazy" decoding="async">
+    <img src="{{ '/images/research/selective-light-field-thumb.png' | relative_url }}" alt="Light-field measurements, reconstructed microscopy images, and depth-coded volume projections" width="800" height="492" loading="lazy" decoding="async">
   </a>
   <div class="research-entry__details">
     <h3 id="selective-light-field">Scanless Volumetric Bioimaging</h3>
