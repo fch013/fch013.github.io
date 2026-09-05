@@ -16,9 +16,8 @@ I combine optical system design, physical modeling, and computational reconstruc
   <div class="research-entry__details">
     <h3 id="rl-light-field">Physics-Guided Light-Field Reconstruction</h3>
     <p class="research-entry__summary">This ongoing project combines light-field microscopy with a Richardson-Lucy-inspired deconvolution network for 3D reconstruction. The framework brings optical forward modeling into the learning process and combines coarse and fine image features. It aims to connect physics-based reconstruction with learned inference for selective-volume multiphoton imaging.</p>
-    <p class="research-entry__publication">Physical-Guided Volumetric Reconstruction in Temporal-Focusing Modulated Light-Field Microscopy of Drosophila Brains<img width="468" height="27" alt="image" src="https://github.com/user-attachments/assets/739699e4-7411-4bcf-9d64-18378f21787c" />
-<br><span class="research-entry__venue"><em>Manuscript in preparation</em></span></p>
-  </div>
+    <p class="research-entry__publication">Physical-Guided Volumetric Reconstruction in Temporal-Focusing Modulated Light-Field Microscopy of Drosophila Brains<br><span class="research-entry__venue"><em>Manuscript in preparation</em></span></p>
+   </div>
 </article>
 
 <article class="research-entry" aria-labelledby="selective-light-field">
